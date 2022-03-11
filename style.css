@@ -163,13 +163,13 @@ body {
   grid-column: 1/5;
 }
 
-@media screen and (min-width: 1182px) {
+@media screen and (min-width: 1190px) {
   .main-grid {
     max-width: 1050px;
   }
 }
 
-@media screen and (max-width: 1182px) {
+@media screen and (max-width: 1190px) {
   .main-grid {
     margin: 15rem auto 15rem auto;
     width: 85%;
