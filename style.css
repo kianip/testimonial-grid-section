@@ -202,5 +202,7 @@ body {
 @media screen and (max-width: 240px) {
   .profile {
     max-height: 30px;
+    display: flex;
+    align-self: center;
   }
 }
