@@ -39,13 +39,13 @@ body {
   justify-content: center;
   align-content: center;
   grid-template-columns: repeat(4, 1fr);
-  gap: 2rem;
+  gap: 2.5rem;
 }
 
 .grid-item {
   border-radius: 1rem;
   color: white;
-  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
 }
 
 .grid-item1 {
