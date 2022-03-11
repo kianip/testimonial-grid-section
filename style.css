@@ -126,7 +126,7 @@ body {
 .grid-item-header h3 {
   font-weight: 300;
   font-size: 1.2rem;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.6);
 }
 
 .grid-item5 .profile {
@@ -154,7 +154,7 @@ body {
 }
 
 .grid-item-quote {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255, 0.9);
 }
 
 .attribution {
