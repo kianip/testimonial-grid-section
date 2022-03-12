@@ -171,7 +171,7 @@ body {
 
 @media screen and (max-width: 1190px) {
   .main-grid {
-    margin: 15rem auto 15rem auto;
+    margin: 10rem auto 15rem auto;
     width: 85%;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
   }
@@ -184,7 +184,7 @@ body {
 
 @media screen and (max-width: 375px) {
   .main-grid {
-    margin: 15rem auto 15rem auto;
+    margin: 10rem auto 15rem auto;
     grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
   }
   .grid-item,
